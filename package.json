@@ -1,0 +1,22 @@
+{
+  "name": "7.3-playwright",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright"
+  },
+  "author": "ksenya",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.20.0",
+    "playwright": "^1.31.1"
+  },
+  "dependencies": {
+    "jest": "^27.5.1",
+    "test": "^0.6.0"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "description": ""
+}
